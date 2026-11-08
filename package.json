@@ -1,0 +1,22 @@
+{
+  "name": "quantum-compiler",
+  "version": "1.0.0",
+  "description": "Pakistan first Compiler made by QuantumLogicsLabs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuantumLogicsLabs/QuantumLanguageCompiler.git"
+  },
+  "keywords": [
+    "compiler"
+  ],
+  "author": "Muhammad Saad Amin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuantumLogicsLabs/QuantumLanguageCompiler/issues"
+  },
+  "homepage": "https://github.com/QuantumLogicsLabs/QuantumLanguageCompiler#readme"
+}
