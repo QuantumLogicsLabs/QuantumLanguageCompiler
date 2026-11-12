@@ -1,6 +1,6 @@
 {
   "name": "quantum-compiler",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Pakistan first Compiler made by QuantumLogicsLabs",
   "main": "quantum.exe",
   "scripts": {
